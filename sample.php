@@ -5,7 +5,11 @@
 <h1>My first PHP page</h1>
 
 <?php
+
+
 echo "Hello World!";
+
+echo "Check for Jenkin workspace update!";
 ?> 
 
 </body>
